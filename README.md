@@ -14,6 +14,8 @@ No sign-ups. No backend. Your notes stay safely inside your own browser.
 - **Responsive layout** so it works smoothly on phones, tablets, and desktops.
 - Clean, distraction-free design for quick thoughts or to-do lists.
 
+---
+
 ## 🛠️ Tech Stack
 - **HTML5** for structure  
 - **CSS3 / Flexbox & Grid** for layout and responsiveness  
@@ -35,6 +37,8 @@ cd thoughtpad
 Open `index.html` in any modern browser.
 
 No build tools or server needed.
+```
+---
 
 💡 Usage
 
@@ -43,11 +47,14 @@ No build tools or server needed.
 -Hover or tap a note to reveal edit and delete actions.
 -Toggle 🌙 / ☀️ to switch themes.
 
+---
+
 📜 License
 
 This project is released under the MIT License
 .
 Feel free to fork, modify, and share.
+
 
 
 
